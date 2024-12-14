@@ -9,7 +9,7 @@ FLUTTER="$ROOTDIR/flutter"
 
 #GIT_CDN="hub.gitmirror.com/"
 BASE_URL="${GIT_CDN}https://github.com/mumumusuc/termux-flutter/releases/download"
-BASE_RAW="${GIT_CDN}https://raw.githubusercontent.com/mumumusuc/termux-flutter/main"
+BASE_RAW="${GIT_CDN}https://raw.githubusercontent.com/mumumusuc/termux-flutter/3.16.5"
 
 command -v git > /dev/null 2>&1 || {
     >&2 echo
